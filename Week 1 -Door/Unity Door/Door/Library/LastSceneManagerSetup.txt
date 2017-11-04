@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Casey/Documents/GitHub/AINT-253/Week 1 -Door/Unity Door/Do0r/Assets/DoorProject/Door_Open_Test.unity
+  isLoaded: 1
+  isActive: 1
